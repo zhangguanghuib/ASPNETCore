@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\templ\\source\\repos\\CourseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\departments\\_departmentdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\departments\\_departmentdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\model\\credentialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\credentialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:14:57.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_DepartmentDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwD0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:40:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:38:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:31:02.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:39:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CredentialViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\CredentialViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\CredentialViewModel.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\CredentialViewModel.cs",
+              "RelativeToolTip": "WebApp\\Model\\CredentialViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:32:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:31:12.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

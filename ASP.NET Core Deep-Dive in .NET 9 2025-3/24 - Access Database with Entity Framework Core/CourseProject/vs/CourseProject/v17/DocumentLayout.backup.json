@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\templ\\source\\repos\\CourseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\models\\employeesefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\employeesefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\models\\departmentsefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\departmentsefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\endpoints\\employeeendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\employeeendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\models\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\endpoints\\departmentendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\departmentendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\models\\departmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\departmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\data\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\filters\\ensuredepartmentexistsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\ensuredepartmentexistsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\model\\departmentsapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\departmentsapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\migrations\\20250204220844_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\migrations\\20250204220844_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\model\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\filters\\ensureemployeeexistsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\ensureemployeeexistsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\filters\\departmentupdatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\departmentupdatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\filters\\departmentcreatefilter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\departmentcreatefilter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\shared\\components\\departmentlist\\departmentlistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\components\\departmentlist\\departmentlistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\filters\\writetoconsoleresourcefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\filters\\writetoconsoleresourcefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\filters\\specialauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\filters\\specialauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\filters\\ensurevalidmodelstatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\filters\\ensurevalidmodelstatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\filters\\ensureemployeeexistspagefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\filters\\ensureemployeeexistspagefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\filters\\endpointexpiresfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\filters\\endpointexpiresfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\filters\\addheaderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\filters\\addheaderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\messagehandlers\\validateapiheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\messagehandlers\\validateapiheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\model\\idepartmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\idepartmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\model\\departmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\departmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesEFRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\EmployeesEFRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\EmployeesEFRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\EmployeesEFRepository.cs",
+              "RelativeToolTip": "WebApi\\Models\\EmployeesEFRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA3wC0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:43:30.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\EmployeesRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\EmployeesRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\EmployeesRepository.cs",
+              "RelativeToolTip": "WebApi\\Models\\EmployeesRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA6wDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:29:57.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:46:29.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\Department.cs",
+              "RelativeToolTip": "WebApi\\Models\\Department.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:04:59.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Data\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Data\\CompanyDbContext.cs",
+              "RelativeToolTip": "WebApi\\Data\\CompanyDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:51:09.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\DepartmentsRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\DepartmentsRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\DepartmentsRepository.cs",
+              "RelativeToolTip": "WebApi\\Models\\DepartmentsRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:26:11.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Endpoints\\EmployeeEndpoints.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\EmployeeEndpoints.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Endpoints\\EmployeeEndpoints.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\EmployeeEndpoints.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:35:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Endpoints\\DepartmentEndpoints.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\DepartmentEndpoints.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Endpoints\\DepartmentEndpoints.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\DepartmentEndpoints.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:29:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnsureDepartmentExistsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\EnsureDepartmentExistsFilter.cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\EnsureDepartmentExistsFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\EnsureDepartmentExistsFilter.cs",
+              "RelativeToolTip": "WebApi\\Filters\\EnsureDepartmentExistsFilter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:14:05.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentsApiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\DepartmentsApiRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\DepartmentsApiRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\DepartmentsApiRepository.cs",
+              "RelativeToolTip": "WebApp\\Model\\DepartmentsApiRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA+wGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:23:36.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250204220844_Init.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Migrations\\20250204220844_Init.cs",
+              "RelativeDocumentMoniker": "WebApi\\Migrations\\20250204220844_Init.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Migrations\\20250204220844_Init.cs",
+              "RelativeToolTip": "WebApi\\Migrations\\20250204220844_Init.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:08:45.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T21:42:30.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\EmployeesRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\EmployeesRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\EmployeesRepository.cs",
+              "RelativeToolTip": "WebApp\\Model\\EmployeesRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:27:36.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnsureEmployeeExistsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\EnsureEmployeeExistsFilter.cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\EnsureEmployeeExistsFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\EnsureEmployeeExistsFilter.cs",
+              "RelativeToolTip": "WebApi\\Filters\\EnsureEmployeeExistsFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBXwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:26:08.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentUpdateFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\DepartmentUpdateFilter.cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\DepartmentUpdateFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\DepartmentUpdateFilter.cs",
+              "RelativeToolTip": "WebApi\\Filters\\DepartmentUpdateFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:25:59.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentCreateFilter .cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\DepartmentCreateFilter .cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\DepartmentCreateFilter .cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\DepartmentCreateFilter .cs",
+              "RelativeToolTip": "WebApi\\Filters\\DepartmentCreateFilter .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:25:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:46:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EndpointExpiresFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\EndpointExpiresFilter.cs",
+              "RelativeDocumentMoniker": "WebApp\\Filters\\EndpointExpiresFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\EndpointExpiresFilter.cs",
+              "RelativeToolTip": "WebApp\\Filters\\EndpointExpiresFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:36:45.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBXwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:44:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnsureEmployeeExistsPageFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\EnsureEmployeeExistsPageFilter.cs",
+              "RelativeDocumentMoniker": "WebApp\\Filters\\EnsureEmployeeExistsPageFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\EnsureEmployeeExistsPageFilter.cs",
+              "RelativeToolTip": "WebApp\\Filters\\EnsureEmployeeExistsPageFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:36:53.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnsureValidModelStateFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\EnsureValidModelStateFilter.cs",
+              "RelativeDocumentMoniker": "WebApp\\Filters\\EnsureValidModelStateFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\EnsureValidModelStateFilter.cs",
+              "RelativeToolTip": "WebApp\\Filters\\EnsureValidModelStateFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:36:56.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddHeaderFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\AddHeaderFilter.cs",
+              "RelativeDocumentMoniker": "WebApp\\Filters\\AddHeaderFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\AddHeaderFilter.cs",
+              "RelativeToolTip": "WebApp\\Filters\\AddHeaderFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:36:43.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpecialAuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\SpecialAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "WebApp\\Filters\\SpecialAuthorizationFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\SpecialAuthorizationFilter.cs",
+              "RelativeToolTip": "WebApp\\Filters\\SpecialAuthorizationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:37:00.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WriteToConsoleResourceFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\WriteToConsoleResourceFilter.cs",
+              "RelativeDocumentMoniker": "WebApp\\Filters\\WriteToConsoleResourceFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Filters\\WriteToConsoleResourceFilter.cs",
+              "RelativeToolTip": "WebApp\\Filters\\WriteToConsoleResourceFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:37:04.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentListViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Shared\\Components\\DepartmentList\\DepartmentListViewComponent.cs",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Components\\DepartmentList\\DepartmentListViewComponent.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Shared\\Components\\DepartmentList\\DepartmentListViewComponent.cs",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\Components\\DepartmentList\\DepartmentListViewComponent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIA6wAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:37:42.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:31:51.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ValidateApiHeaderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\MessageHandlers\\ValidateApiHeaderHandler.cs",
+              "RelativeDocumentMoniker": "WebApp\\MessageHandlers\\ValidateApiHeaderHandler.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\MessageHandlers\\ValidateApiHeaderHandler.cs",
+              "RelativeToolTip": "WebApp\\MessageHandlers\\ValidateApiHeaderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:59:39.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDepartmentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\IDepartmentsRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\IDepartmentsRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\IDepartmentsRepository.cs",
+              "RelativeToolTip": "WebApp\\Model\\IDepartmentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:13:25.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\DepartmentsRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\DepartmentsRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\DepartmentsRepository.cs",
+              "RelativeToolTip": "WebApp\\Model\\DepartmentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:43:14.119Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "66006e15-eeef-4f9c-9790-c8ad812c56d9",
+        "Display": 1,
+        "X": -5,
+        "Y": 336,
+        "Width": 1090,
+        "Height": 912,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsEFRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\DepartmentsEFRepository.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\DepartmentsEFRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\DepartmentsEFRepository.cs",
+              "RelativeToolTip": "WebApi\\Models\\DepartmentsEFRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:43:57.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

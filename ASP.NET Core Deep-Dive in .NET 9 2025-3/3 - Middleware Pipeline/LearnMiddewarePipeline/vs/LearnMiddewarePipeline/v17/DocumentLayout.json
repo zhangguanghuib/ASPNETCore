@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\templ\\source\\repos\\LearnMiddewarePipeline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2F6E59-2522-4899-92FB-914EDA41CD4F}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\learnmiddewarepipeline\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2F6E59-2522-4899-92FB-914EDA41CD4F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2F6E59-2522-4899-92FB-914EDA41CD4F}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\learnmiddewarepipeline\\webapp\\middlecomponents\\mycustomexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2F6E59-2522-4899-92FB-914EDA41CD4F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\middlecomponents\\mycustomexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2F6E59-2522-4899-92FB-914EDA41CD4F}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\learnmiddewarepipeline\\webapp\\middlecomponents\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2F6E59-2522-4899-92FB-914EDA41CD4F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\middlecomponents\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\LearnMiddewarePipeline\\WebApp\\MiddleComponents\\MyCustomExceptionHandler.cs",
+              "RelativeDocumentMoniker": "WebApp\\MiddleComponents\\MyCustomExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\LearnMiddewarePipeline\\WebApp\\MiddleComponents\\MyCustomExceptionHandler.cs",
+              "RelativeToolTip": "WebApp\\MiddleComponents\\MyCustomExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:38:17.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\LearnMiddewarePipeline\\WebApp\\MiddleComponents\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApp\\MiddleComponents\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\LearnMiddewarePipeline\\WebApp\\MiddleComponents\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "WebApp\\MiddleComponents\\MyCustomMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:20:52.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\LearnMiddewarePipeline\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\LearnMiddewarePipeline\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:35:46.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

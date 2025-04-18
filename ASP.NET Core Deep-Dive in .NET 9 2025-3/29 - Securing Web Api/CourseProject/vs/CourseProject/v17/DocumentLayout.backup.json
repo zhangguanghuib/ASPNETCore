@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\templ\\source\\repos\\CourseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\endpoints\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\filters\\ensureemployeeexistsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\ensureemployeeexistsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\models\\credentialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\credentialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\model\\credentialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\credentialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\messagehandlers\\validateapiheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\messagehandlers\\validateapiheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapi\\endpoints\\departmentendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B749E8-2C1C-4BEA-9BD1-3E46DA93DFEA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\departmentendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\model\\employeesapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\employeesapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\shared\\_loginstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_loginstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\departments\\_departmentdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\departments\\_departmentdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\users\\templ\\source\\repos\\courseproject\\webapp\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnsureEmployeeExistsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\EnsureEmployeeExistsFilter.cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\EnsureEmployeeExistsFilter.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Filters\\EnsureEmployeeExistsFilter.cs",
+              "RelativeToolTip": "WebApi\\Filters\\EnsureEmployeeExistsFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:39:19.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CredentialViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\CredentialViewModel.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\CredentialViewModel.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Models\\CredentialViewModel.cs",
+              "RelativeToolTip": "WebApi\\Models\\CredentialViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:30:40.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Endpoints\\AccountEndpoints.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\AccountEndpoints.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Endpoints\\AccountEndpoints.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\AccountEndpoints.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:28:38.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:53:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:27:33.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidateApiHeaderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\MessageHandlers\\ValidateApiHeaderHandler.cs",
+              "RelativeDocumentMoniker": "WebApp\\MessageHandlers\\ValidateApiHeaderHandler.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\MessageHandlers\\ValidateApiHeaderHandler.cs",
+              "RelativeToolTip": "WebApp\\MessageHandlers\\ValidateApiHeaderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:21:45.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CredentialViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\CredentialViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\CredentialViewModel.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\CredentialViewModel.cs",
+              "RelativeToolTip": "WebApp\\Model\\CredentialViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:32:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Endpoints\\DepartmentEndpoints.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\DepartmentEndpoints.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApi\\Endpoints\\DepartmentEndpoints.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\DepartmentEndpoints.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAEBXwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:59:05.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAEBXwCYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:31:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesApiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\EmployeesApiRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\EmployeesApiRepository.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Model\\EmployeesApiRepository.cs",
+              "RelativeToolTip": "WebApp\\Model\\EmployeesApiRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAEBXwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:16:59.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T14:32:26.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T21:33:00.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T23:50:15.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T23:50:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Shared\\_LoginStatus.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_LoginStatus.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Shared\\_LoginStatus.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_LoginStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T23:50:49.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAEBnwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:11:28.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:06:13.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:38:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:39:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:14:57.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_DepartmentDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "ToolTip": "C:\\Users\\templ\\source\\repos\\CourseProject\\WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwD0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:40:11.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
